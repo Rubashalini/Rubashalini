@@ -74,25 +74,6 @@
 
 ---
 
-### 📜 Certifications
-
-- Introduction to Cybersecurity Awareness — HP LIFE (2024)
-- C Programming Basics — Programiz (2024)
-- Professional English & IT — Aquinas College of Higher Studies (2022)
-- Hand Tracking Mouse Control with OpenCV — NoviTech R&D (2025)
-
----
-
-### 🌐 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| Tamil    | Native |
-| English  | Fluent |
-| Sinhala  | Intermediate |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
