@@ -11,27 +11,6 @@ My goal is to build strong fundamentals in programming and software engineering 
 
 ML/AI, Python programming language, Networking
 
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rubashalini&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rubashalini&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubashalini&layout=compact&langs_count=10&theme=default"/>
-</div>
-
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
